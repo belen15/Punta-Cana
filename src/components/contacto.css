@@ -1,0 +1,27 @@
+.contacto{
+  flex-direction: column;
+  height: 90vh;
+}
+
+.btn{
+  font-size: 20px;
+}
+
+.si{
+  background: rgb(196, 195, 192);
+  border: none;
+  color: #000;
+}
+
+.si:hover{
+  background: rgb(145, 144, 143) ;
+}
+
+.boton{
+  text-decoration: none;
+  color: #fff;
+}
+.boton:hover{
+  color: rgb(230, 230, 230);
+}
+

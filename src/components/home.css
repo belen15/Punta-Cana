@@ -1,0 +1,18 @@
+.home{
+  background-image: url('./img/hotel-edit.png');
+  background-color: #D5E2E0 ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*background: #CBB89C;*/
+  height: 100vh;
+  text-align: center;
+}
+
+.titulo{
+  color: #fff;
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Kaushan Script', cursive;
+  font-weight: lighter;
+  height: 25vh;
+}

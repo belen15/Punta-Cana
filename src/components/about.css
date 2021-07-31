@@ -1,0 +1,36 @@
+.about{
+  margin: 0px;
+  padding: 20px;
+  /*background: rgba(119, 161, 202, 0.3);*/
+  color: #fff;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  height: 100vh;
+  min-height: 800px;
+  width: 100vw;
+}
+
+
+
+
+.descripcion{
+  color: #3E4645;
+  display: flex;
+  flex-direction: row;
+  height: 60vh;
+  line-height: 1.5;
+  margin: 150px 100px 0px ;
+}
+
+.descripcion p{
+  width: 50%;
+  margin: 0px 20px;
+  
+  text-align: justify;
+}
+.descripcion div{
+  width: 50%;
+  float: right;
+}
+
